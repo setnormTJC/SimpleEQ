@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="juce::StandaloneFilterApp">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACEAAFAAEgAAAABAAACAgAAAAABAAgAAA=</HashCode>
+      <FileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\juce_audio_plugin_client_Standalone.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="juce::StandalonePluginHolder">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="juce::StandalonePluginHolder::PluginInOuts" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="juce::StandalonePluginHolder::CallbackMaxSizeEnforcer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="juce::StandalonePluginHolder::SettingsComponent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ge0QMBAgARAgQAIiBQAARACgIADA5A4XIEACCBAAEEA=</HashCode>
+      <FileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="juce::StandaloneFilterWindow">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="juce::StandaloneFilterWindow::PluginInOuts" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Class Name="juce::StandaloneFilterWindow::MainContentComponent" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="juce::StandaloneFilterWindow::DecoratorConstrainer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIBAABAAAAUAAAgQAAAAAAAAAAAAAIEAQgACIAAQAAA=</HashCode>
+      <FileName>C:\Users\snorm\source\repos\JUCE\modules\juce_audio_plugin_client\Standalone\juce_StandaloneFilterWindow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
